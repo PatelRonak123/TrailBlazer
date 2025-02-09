@@ -3,6 +3,7 @@ Excited to share my latest project—a hand gesture-controlled Snake Game! 🎮 
 
 🔹 Tech Stack: OpenCV | cvzone | Mediapipe | Python
 🔹 Features:
+
 ✅ Real-time hand tracking 🎥
 
 ✅ Smooth and stable gesture control ✋
