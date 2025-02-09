@@ -1,4 +1,5 @@
 1️⃣ Gesture-Controlled Snake Game Using OpenCV! 🐍🖐️
+
 Excited to share my latest project—a hand gesture-controlled Snake Game! 🎮 Built using OpenCV, cvzone, and Python, this game lets you guide the snake using just your index finger.
 
 🔹 Tech Stack: OpenCV | cvzone | Mediapipe | Python
